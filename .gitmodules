@@ -1,3 +1,6 @@
 [submodule "Jobby-App-react"]
 	path = Jobby-App-react
 	url = https://github.com/seyoonPuvi/Jobby-App-react.git
+[submodule "NXT-Trends-Ecom"]
+	path = NXT-Trends-Ecom
+	url = https://github.com/seyoonPuvi/NXT-Trends-Ecom.git
