@@ -4,3 +4,6 @@
 [submodule "NXT-Trends-Ecom"]
 	path = NXT-Trends-Ecom
 	url = https://github.com/seyoonPuvi/NXT-Trends-Ecom.git
+[submodule "VK-NXT-Watch"]
+	path = VK-NXT-Watch
+	url = https://github.com/seyoonPuvi/VK-NXT-Watch.git
