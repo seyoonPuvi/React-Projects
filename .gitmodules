@@ -16,3 +16,6 @@
 [submodule "RPS-GAME"]
 	path = RPS-GAME
 	url = https://github.com/seyoonPuvi/RPS-GAME.git
+[submodule "insta-share"]
+	path = insta-share
+	url = https://github.com/seyoonPuvi/insta-share.git
