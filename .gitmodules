@@ -13,3 +13,6 @@
 [submodule "CSS-gradient-Generator"]
 	path = CSS-gradient-Generator
 	url = https://github.com/seyoonPuvi/CSS-gradient-Generator.git
+[submodule "RPS-GAME"]
+	path = RPS-GAME
+	url = https://github.com/seyoonPuvi/RPS-GAME.git
