@@ -7,3 +7,6 @@
 [submodule "VK-NXT-Watch"]
 	path = VK-NXT-Watch
 	url = https://github.com/seyoonPuvi/VK-NXT-Watch.git
+[submodule "vk-meme-generator"]
+	path = vk-meme-generator
+	url = https://github.com/seyoonPuvi/vk-meme-generator.git
