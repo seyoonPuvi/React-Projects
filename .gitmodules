@@ -10,3 +10,6 @@
 [submodule "vk-meme-generator"]
 	path = vk-meme-generator
 	url = https://github.com/seyoonPuvi/vk-meme-generator.git
+[submodule "CSS-gradient-Generator"]
+	path = CSS-gradient-Generator
+	url = https://github.com/seyoonPuvi/CSS-gradient-Generator.git
