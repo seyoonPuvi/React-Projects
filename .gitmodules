@@ -19,3 +19,6 @@
 [submodule "insta-share"]
 	path = insta-share
 	url = https://github.com/seyoonPuvi/insta-share.git
+[submodule "Netflix-Gemini"]
+	path = Netflix-Gemini
+	url = https://github.com/seyoonPuvi/Netflix-Gemini.git
